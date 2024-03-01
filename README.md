@@ -23,7 +23,7 @@ Installation:
 
     bash
 
-git clone https://github.com/your-username/image-labels-generator.git
+git clone https://github.com/ycarmack2647/aws_rekognition/edit/main/
 
 Navigate to the project directory:
 
