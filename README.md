@@ -23,7 +23,7 @@ Installation:
 
     bash
 
-git clone git@github.com:ycarmack2647/aws_rekognition.git
+git clone https://github.com/ycarmack2647/aws_rekognition/tree/main
 
 Navigate to the project directory:
 
